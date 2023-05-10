@@ -1,0 +1,15 @@
+---
+title: "Week10 Tutorial"
+output: html_document
+date: "2023-05-10"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries}
+library(dplyr)
+library(ggplot2)
+```
+
